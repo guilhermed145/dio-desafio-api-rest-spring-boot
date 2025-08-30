@@ -1,0 +1,1 @@
+web: java -jar build\libs\dio-desafio-api-rest-spring-boot-0.0.1-SNAPSHOT.jar
